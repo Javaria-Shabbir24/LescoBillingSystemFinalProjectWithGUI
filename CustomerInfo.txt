@@ -1,0 +1,4 @@
+2345 , 2025612345567 , hadia , 836ModelTown , 03356670113 , domestic , sphase , 14/05/2022 , 35 , 0
+1345 , 2025609764536 , anaya , 67-FaisalTown , 03115677012 , commercial , tphase , 17/05/2022 , 70 , 13
+3355 , 2025128255567 , ahmed , 33Dha , 03006670679 , domestic , sphase , 30/06/2022 , 30 , 10
+3315 , 2025123045567 , mustafa , defence , 03001384051 , commercial , tphase , 20/05/2022 , 10 , 8
